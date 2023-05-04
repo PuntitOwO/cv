@@ -1,88 +1,114 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christopher Marín Romero
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christopher Marín Romero
+Estudiante de Ingeniería Civil en Computación.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="christopher.marin@ing.uchile.cl">christopher.marin@ing.uchile.cl</a>
+| <a href="https://puntito.cl/">Página personal</a>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
+Estudiante de quinto año de Ingeniería Civil en Computación, Universidad de Chile.
 
-### Specialized in
+Ayudante de curso Taller de Diseño y Desarrollo de Videojuegos desde 2021.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Director de Comunicaciones y Administrador de Sistemas en el Centro de Alumnos del Departamento de Ciencias de la Computación desde 2022.
 
+### Intereses
 
-### Research interests
+Desarrollo de aplicaciones web, programación competitiva y desarrollo de videojuegos.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Experiencia Laboral
 
+`2022 - 2022`
+__Voxcom__, Práctica Profesional.
 
-## Education
+- Desarrollador Multiplataforma con Flutter.
 
-`1654-1660`
-__The King's School, Grantham.__
+## Formación
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019 - (cursando)`
+__Facultad de Ciencias Físicas y Matemáticas__ 
 
-- Sizar
+- Ingeniería Civil en Computación
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2013 - 2018`
+__Liceo José Victorino Lastarria__
 
-- Fellow
+- Educación básica y media
 
+`2007 - 2012`
+__Colegio Marquel__
 
+- Educación básica
 
-## Awards
+## Cursos adicionales
 
-`2012`
-President, *Royal Society*, London, UK
+`2022 - 2022`
+__The Complete Flutter Development Bootcamp with Dart__
 
-Associate, *French Academy of Science*, Paris, France
+- Udemy
 
+`2020 - 2020`
+__Estructuras de Datos en Python__
 
+- Coursera
 
-## Publications
+`2020 - 2020`
+__Programación Orientada a Objetos con Python__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Coursera
 
-### Journals
+`2020 - 2020`
+__Manejo de Bases de Datos con Python__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Coursera
 
 
+## Reconocimientos
+
+`2019, 2020`
+__Estudiante Destacado__
+
+- Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
+
+`2021`
+__Estudiante Destacado__
+
+- Departamento de Ciencias de la Computación, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
+
+## Idiomas
+
+__Inglés__ (Avanzado)
+
+__Español__ (Nativo)
+
+## Habilidades
+
+__Python__ (Avanzado)
+
+__Dart y Flutter__ (Intermedio)
+
+__GDScript__ (Intermedio)
+
+__Kotlin__ (Básico)
+
+__Java__ (Básico)
+
+__Html, CSS, JS__ (Básico)
+
+__C++__ (Básico)
+
+__C__ (Básico)
+
+## Fortalezas
+
+Atención a los detalles. Solución de problemas. Analítico. Orientado a las tareas. Prudencia. Tolerancia a la presión.
 
 <!-- ### Footer
 
