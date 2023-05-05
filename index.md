@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Christopher Marín Romero
+title: CV Christopher Marín
 ---
 # Christopher Marín Romero
 Estudiante de Ingeniería Civil en Computación.
@@ -42,29 +42,32 @@ __Liceo José Victorino Lastarria__
 
 - Educación básica y media
 
+<!-- Ocultar
+
 `2007 - 2012`
 __Colegio Marquel__
 
 - Educación básica
+-->
 
-## Cursos adicionales
+### Cursos adicionales
 
-`2022 - 2022`
+`2022`
 __The Complete Flutter Development Bootcamp with Dart__
 
 - Udemy
 
-`2020 - 2020`
+`2020`
 __Estructuras de Datos en Python__
 
 - Coursera
 
-`2020 - 2020`
+`2020`
 __Programación Orientada a Objetos con Python__
 
 - Coursera
 
-`2020 - 2020`
+`2020`
 __Manejo de Bases de Datos con Python__
 
 - Coursera
@@ -92,26 +95,16 @@ __Español__ (Nativo)
 
 __Python__ (Avanzado)
 
-__Dart y Flutter__ (Intermedio)
+__GDScript__ (Avanzado)
 
-__GDScript__ (Intermedio)
+__Dart y Flutter__
 
-__Kotlin__ (Básico)
+__Kotlin, Java__
 
-__Java__ (Básico)
+__Html, CSS, JS__
 
-__Html, CSS, JS__ (Básico)
-
-__C++__ (Básico)
-
-__C__ (Básico)
+__C, C++__
 
 ## Fortalezas
 
 Atención a los detalles. Solución de problemas. Analítico. Orientado a las tareas. Prudencia. Tolerancia a la presión.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
