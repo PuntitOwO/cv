@@ -6,24 +6,32 @@ title: CV Christopher Marín
 Estudiante de Ingeniería Civil en Computación.
 
 <div id="webaddress">
-<a href="christopher.marin@ing.uchile.cl">christopher.marin@ing.uchile.cl</a>
-| <a href="https://puntito.cl/">Página personal</a>
+<a href="work@puntito.cl"><i class="fa-solid fa-envelope"></i> work@puntito.cl</a> | <a href="https://puntito.cl/"><i class="fa-solid fa-house"></i> puntito.cl</a> | <a href="https://github.com/PuntitOwO/"><i class="fa-brands fa-github"></i> github.com/PuntitOwO</a>
 </div>
 
 
 ## Actualmente
 
-Estudiante de quinto año de Ingeniería Civil en Computación, Universidad de Chile.
+Ingeniero Civil en Computación, Universidad de Chile.
 
-Ayudante de curso Taller de Diseño y Desarrollo de Videojuegos desde 2021.
+Desarrollador de aplicaciones móviles con Flutter en <a href="https://transapp.cl">Transapp</a> desde 2024.
 
-Director de Comunicaciones y Administrador de Sistemas en el Centro de Alumnos del Departamento de Ciencias de la Computación desde 2022.
 
 ### Intereses
 
-Desarrollo de aplicaciones web, programación competitiva y desarrollo de videojuegos.
+Desarrollo de aplicaciones móviles, diseño de automatizaciones y flujos CI/CD, y desarrollo de videojuegos.
 
 ## Experiencia Laboral
+
+`2024 - Presente`
+__Transapp__, Desarrollador móvil.
+
+- Desarrollador Multiplataforma con Flutter.
+
+`2023 - 2024`
+__Transapp__, Práctica Profesional.
+
+- Desarrollador Multiplataforma con Flutter.
 
 `2022 - 2022`
 __Voxcom__, Práctica Profesional.
@@ -32,7 +40,7 @@ __Voxcom__, Práctica Profesional.
 
 ## Formación
 
-`2019 - (cursando)`
+`2019 - 2024`
 __Facultad de Ciencias Físicas y Matemáticas__ 
 
 - Ingeniería Civil en Computación
@@ -41,14 +49,6 @@ __Facultad de Ciencias Físicas y Matemáticas__
 __Liceo José Victorino Lastarria__
 
 - Educación básica y media
-
-<!-- Ocultar
-
-`2007 - 2012`
-__Colegio Marquel__
-
-- Educación básica
--->
 
 ### Cursos adicionales
 
@@ -80,7 +80,7 @@ __Estudiante Destacado__
 
 - Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
 
-`2021`
+`2021, 2022, 2023`
 __Estudiante Destacado__
 
 - Departamento de Ciencias de la Computación, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
@@ -93,11 +93,11 @@ __Español__ (Nativo)
 
 ## Habilidades
 
-__Python__ (Avanzado)
+__Dart y Flutter__ (Avanzado)
 
 __GDScript__ (Avanzado)
 
-__Dart y Flutter__
+__Python__ (Avanzado)
 
 __Kotlin, Java__
 
