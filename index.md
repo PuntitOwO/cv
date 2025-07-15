@@ -6,7 +6,7 @@ title: CV Christopher Marín
 Desarrollador de software multiplataforma
 
 <div id="webaddress">
-<a href="work@puntito.cl"><i class="fa-solid fa-envelope"></i> work@puntito.cl</a> | <a href="https://puntito.cl/"><i class="fa-solid fa-house"></i> puntito.cl</a> | <a href="https://github.com/PuntitOwO/"><i class="fa-brands fa-github"></i> github.com/PuntitOwO</a>
+<a href="mailto:work@puntito.cl"><i class="fa-solid fa-envelope"></i> work@puntito.cl</a> | <a href="https://puntito.cl/"><i class="fa-solid fa-house"></i> puntito.cl</a> | <a href="https://github.com/PuntitOwO/"><i class="fa-brands fa-github"></i> github.com/PuntitOwO</a>
 </div>
 
 
