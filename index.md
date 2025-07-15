@@ -3,7 +3,7 @@ layout: cv
 title: CV Christopher Marín
 ---
 # Christopher Marín Romero
-Estudiante de Ingeniería Civil en Computación.
+Desarrollador de software multiplataforma
 
 <div id="webaddress">
 <a href="work@puntito.cl"><i class="fa-solid fa-envelope"></i> work@puntito.cl</a> | <a href="https://puntito.cl/"><i class="fa-solid fa-house"></i> puntito.cl</a> | <a href="https://github.com/PuntitOwO/"><i class="fa-brands fa-github"></i> github.com/PuntitOwO</a>
@@ -14,7 +14,7 @@ Estudiante de Ingeniería Civil en Computación.
 
 Ingeniero Civil en Computación, Universidad de Chile.
 
-Desarrollador de aplicaciones móviles con Flutter en <a href="https://transapp.cl">Transapp</a> desde 2024.
+Desarrollador de aplicaciones móviles con Flutter en <a href="https://transapp.cl">Transapp</a> desde 2023.
 
 
 ### Intereses
